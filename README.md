@@ -85,8 +85,8 @@ These results suggest that MRI-derived features may provide complementary inform
 ## Repository Contents
 
 - [`multimodal_alzheimers_classification.ipynb`](multimodal_alzheimers_classification.ipynb) — Complete data preprocessing, exploratory analysis, model development, evaluation, and comparison
-- `project_report.pdf` — Full capstone project report
-- `research_proposal.pdf` — Original research proposal
+- [`project_report.pdf`](project_report.pdf) — Full capstone project report
+- [`research_proposal.pdf`](research_proposal.pdf) — Original research proposal
 
 ## Limitations
 
